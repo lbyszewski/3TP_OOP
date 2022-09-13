@@ -9,7 +9,18 @@ public class LekcjaTeoretyczna {
         // schemat blokowy
         // lista kroków
 
-        //Alogrytm który weryfikuje najmniejszy i najwiekszy element spośród n-elementowej tablicy np. 10-elementów
+        //Alogrytm który weryfikuje najmniejszy i najwiekszy element spośród n-elementowej tablicy i podaje ich sumę np. 10-elementów
+
+        //1. Deklaracja zmiennych tablicowych
+
+        //2. Klasa Scanner - dane wejściowe
+
+        //3.  Wykorzystanie pętli FOR i tablicy
+
+        //4.  Wykorzystanie pętli FOR - przeszukania
+
+        //5.  Wyświetlenie wyniku - dane wyściowe
+
 
 
 
