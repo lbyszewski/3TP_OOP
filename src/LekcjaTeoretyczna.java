@@ -4,40 +4,13 @@ public class LekcjaTeoretyczna {
 
     public static void main(String[] args) {
 
-    //1. pętle do i do while
-    //2. tablice
-    //3. switch
+    //1. Algorytm - ciąg skończonych instrukcji  za pomocą których dążymy do rozwiązania pewnego problemu.
+        // Problem ten może być przedstawiony w dwóch wariantach:
+        // schemat blokowy
+        // lista kroków
 
+        //Alogrytm który weryfikuje najmniejszy i najwiekszy element spośród n-elementowej tablicy np. 10-elementów
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        //4. wykorzystanie w praktyce tablic i pętli for na przykładzie zadania praktycznego - Algorytm
 
 
 
