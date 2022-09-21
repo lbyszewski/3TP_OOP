@@ -67,6 +67,13 @@ public class Main {
         }
 
 
+        // do while
+        int k = 1;
+        do {
+            System.out.println(k);
+            k+=2;
+        } while (k<=25);
+
 
 
 
