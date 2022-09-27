@@ -1,5 +1,7 @@
 package obiektówka;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Main {
@@ -12,7 +14,6 @@ public class Main {
         System.out.println("podaj n: ");
         Scanner scanner = new Scanner(System.in);
         double n = scanner.nextDouble();
-
 
         System.out.println(personOne.fibb(n));
 
