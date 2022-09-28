@@ -17,7 +17,7 @@ public class LekcjaTeoretyczna {
         //2. Klasa Scanner - dane wejściowe
         Scanner scanner = new Scanner(System.in);
         //3.  Wykorzystanie pętli FOR i tablicy
-
+    double w =5;
         for(int i =0;i<5;i++){
             int pomoc = i+1;
             System.out.println("podaj "+ pomoc +" element" );
